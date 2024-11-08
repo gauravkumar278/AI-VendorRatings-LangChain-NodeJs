@@ -1,5 +1,5 @@
 {
-  "name": "openai-langchainjs-reciepe-generation",
+  "name": "ai-vendorating-langchainjs-nodejs",
   "version": "1.0.0",
   "description": "Generate meal using openai and langchain",
   "main": "app.js",
@@ -11,6 +11,9 @@
   "keywords": [
     "openai",
     "langchainjs",
+    "langchain",
+    "gemini",
+    "ai agent",
     "ai"
   ],
   "author": "Gaurav Kumar",
